@@ -1,6 +1,6 @@
 //행렬의 덧셈
 
-class Solution {
+class SolutionAdd {
     public int[][] solution(int[][] arr1, int[][] arr2) {
         int row = arr1.length;
         int col = arr1[0].length;

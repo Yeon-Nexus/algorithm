@@ -1,7 +1,7 @@
 
 //콜라츠 추측
 
-class Solution {
+class Collatz {
     public int solution(int num) {
         int answer = 0;
         while(num != 1){

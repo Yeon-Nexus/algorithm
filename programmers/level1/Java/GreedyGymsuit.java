@@ -1,6 +1,5 @@
-package greedy;
 
-public class greedy_Gymsuit {
+public class GreedyGymsuit {
 	public static int solution(int n, int[] lost, int[] reserve) {
         int answer = 0;
         int count = n - lost.length;

@@ -1,7 +1,7 @@
 
 //핸드폰 번호 가리기
 
-class Solution {
+class PhoneNumber {
     public String solution(String phone_number) {
         String answer = "";
         

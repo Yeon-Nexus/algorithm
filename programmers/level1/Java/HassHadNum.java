@@ -1,7 +1,7 @@
 
 //하샤드 수
 
-class Solution {
+class HassHadNum {
     public boolean solution(int x) {
         boolean answer = true;
         int n = x;

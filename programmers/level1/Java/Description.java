@@ -1,7 +1,7 @@
 
 //정수 제곱근 판별
 
-class Solution {
+class Description {
     public long solution(long n) {
         long answer = 0;
         long x = 0;

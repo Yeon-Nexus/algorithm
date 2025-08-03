@@ -1,7 +1,7 @@
 
 //짝수와 홀수
 
-class Solution {
+class EvenOdd {
     public String solution(int num) {
         String answer = "";
         if(num < 0)

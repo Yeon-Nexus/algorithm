@@ -1,7 +1,7 @@
 
 //최대공약수 최소공배수 구하기
 
-class Solution {
+class DivisorMultiple {
     public int[] solution(int n, int m) {
         int[] answer = {0,0};
         int a = 0;
